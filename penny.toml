@@ -1,0 +1,6 @@
+[default]
+template_dir = "templates/"
+
+[default.databases.penny]
+# Postgres
+url = "postgres://root:root@localhost/penny"

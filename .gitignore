@@ -1,0 +1,7 @@
+/target
+.idea
+analysis
+.DS_Store
+/processor/data/
+# Omit the observer. See README.md for details.
+/observer
